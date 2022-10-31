@@ -1,0 +1,32 @@
+/* includes alternating gray and white with on-hover color */
+
+* {
+  font-family: sans-serif;
+}
+
+
+table {
+  border-collapse: collapse;
+  font-size: 0.7em;
+  font-family: sans-serif;
+  text-align: left;
+
+}
+
+th {
+  background-color: white;
+  color: black;
+  text-align: left;
+}
+
+td {
+    word-break: break-word;
+}
+
+
+tableflow {
+    overflow-x: auto; 
+    overflow-y: auto;
+    width: 98%;
+    height: 100%;
+}
