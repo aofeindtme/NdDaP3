@@ -11,7 +11,7 @@ For assessing the data I spend a lot of time in coding and experimenting to crea
  - Clarity
 
 To provide these points I let the code extract a markdown and HTML time each during runtime.
-The files are named `wrangle_report.html` and `wrangle_report.md` and also stored inside my Project Workspace at Udacity.
+The files are named `assessing.html` and `assessing.md` and also stored inside my Project Workspace at Udacity.
 ### Noteable quality issues observating the given files
 ### Noteable tidiness issues observating the given files
 ## Cleaning
