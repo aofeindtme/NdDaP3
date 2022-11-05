@@ -12,6 +12,10 @@ For assessing the data I spend a lot of time in coding and experimenting to crea
 
 To provide these points I let the code extract a markdown and HTML time each during runtime.
 The files are named `assessing.html` and `assessing.md` and also stored inside my Project Workspace at Udacity.
+### Process
+#### I load the data sources in separat DataFrames
+After this in a first run I have a fast look on the first rows of each DataFrame and mentioned the first issues I notice.
+
 ### Noteable quality issues observating the given files
 ### Noteable tidiness issues observating the given files
 ## Cleaning
