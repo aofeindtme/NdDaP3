@@ -16,6 +16,9 @@ The files are named `assessing.html` and `assessing.md` and also stored inside m
 #### I load the data sources in separat DataFrames
 After this in a first run I have a fast look on the first rows of each DataFrame and mentioned the first issues I notice.
 
+<img width="1132" alt="image" src="https://user-images.githubusercontent.com/79275883/200114118-eb86723c-dc0d-4845-b10f-1d3d16be83ec.png">
+
+
 ### Noteable quality issues observating the given files
 ### Noteable tidiness issues observating the given files
 ## Cleaning
