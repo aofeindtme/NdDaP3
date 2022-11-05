@@ -15,15 +15,17 @@ The files are named `assessing.html` and `assessing.md` and also stored inside m
 ### Process
 I load the data sources in separat DataFrames and run code to provide the possibilities for a visual and a programmatical assement.
 
-#### 1. Noteable tidiness issue - Source saved in HTML Format
-<img width="1132" alt="image" src="https://user-images.githubusercontent.com/79275883/200114118-eb86723c-dc0d-4845-b10f-1d3d16be83ec.png">
+ - 1. Noteable tidiness issue - Source saved in HTML Format
+ - <img width="1132" alt="image" src="https://user-images.githubusercontent.com/79275883/200114118-eb86723c-dc0d-4845-b10f-1d3d16be83ec.png">
 
-#### 2. Noteable quality issue - Dog ages spread over columns
+#### 2. Noteable quality issue - Categorical variables for dog ages are represented as separate columns
 <img width="722" alt="image" src="https://user-images.githubusercontent.com/79275883/200114289-a3b3398b-842b-4896-8dbb-9a9298576f06.png">
 
 #### 3. Noteable tidiness issue - Columns not interesting for further analyse
-<img width="671" alt="image" src="https://user-images.githubusercontent.com/79275883/200114491-99897b03-50ce-4cd2-b84e-bde030a997f5.png">
+<img width="1407" alt="image" src="https://user-images.githubusercontent.com/79275883/200115068-1790d395-9b92-489b-96c4-d5b3e5efc638.png">
 
+#### 4. Noteable quality issue - Type *int64* instead of *string*
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/79275883/200115467-c943a318-4478-4dc1-b64c-12f79daac65d.png">
 
 
 ### Noteable quality issues observating the given files
