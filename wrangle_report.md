@@ -33,8 +33,26 @@ I load the data sources in separat DataFrames and run code to provide the possib
  6. Noteable quality issue - **wrd_archive** `rating_numerator` inaccurate values
  <img width="977" alt="image" src="https://user-images.githubusercontent.com/79275883/200125462-b19107c1-9ecf-433a-a52e-54c89674173c.png">
 
- 7. Noteable quality issue - **wrd_archive** `rating_denominator`inaccurate values != 10
+ 7. Noteable quality issue - **wrd_archive** `rating_denominator` inaccurate values != 10
  <img width="657" alt="image" src="https://user-images.githubusercontent.com/79275883/200125785-3b6ab12c-d5ea-42da-bf55-e79664547321.png">
+
+ 8. Noteable tidiness issue - **wrd_archive** `expanded urls` sometimes more than one value
+ <img width="1208" alt="image" src="https://user-images.githubusercontent.com/79275883/200126525-c583c69e-8c9a-4d92-a795-f13392beba43.png">
+ 
+ 9. Noteable tidiness issue - **wrd_archive** `name` invalid names or non-names
+<img width="262" alt="image" src="https://user-images.githubusercontent.com/79275883/200126658-1d8cd211-e3c7-457f-af1f-5f8c4fa96301.png">
+
+ 10. Noteable tidiness issue - **wrd_archive** `text` ‘&’ and ‘\n’ in (sub)strings
+ <img width="904" alt="image" src="https://user-images.githubusercontent.com/79275883/200126851-d47afade-187a-4cda-b290-9afdbaabb263.png">
+ 
+ 11. Noteable quality issue - **wrd_image_prediction** `p1_conf`, `p2_conf` and `p3_conf` FALSE in all of these columns
+<img width="924" alt="image" src="https://user-images.githubusercontent.com/79275883/200127060-685ce3f6-ed56-45c2-99e7-5e8c11071d31.png">
+
+ 12. Noteable quality issue - **wrd_image_prediction** `p1`, `p2` and `p3` one prediction data with TRUE and the highest confidence value is enough
+
+
+
+
 
 
 ## Cleaning
