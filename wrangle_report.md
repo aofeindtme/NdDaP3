@@ -40,15 +40,28 @@ I load the data sources in separat DataFrames and run code to provide the possib
  <img width="1208" alt="image" src="https://user-images.githubusercontent.com/79275883/200126525-c583c69e-8c9a-4d92-a795-f13392beba43.png">
  
  9. Noteable tidiness issue - **wrd_archive** `name` invalid names or non-names
-<img width="262" alt="image" src="https://user-images.githubusercontent.com/79275883/200126658-1d8cd211-e3c7-457f-af1f-5f8c4fa96301.png">
+ <img width="262" alt="image" src="https://user-images.githubusercontent.com/79275883/200126658-1d8cd211-e3c7-457f-af1f-5f8c4fa96301.png">
 
  10. Noteable tidiness issue - **wrd_archive** `text` ‘&’ and ‘\n’ in (sub)strings
  <img width="904" alt="image" src="https://user-images.githubusercontent.com/79275883/200126851-d47afade-187a-4cda-b290-9afdbaabb263.png">
  
  11. Noteable quality issue - **wrd_image_prediction** `p1_conf`, `p2_conf` and `p3_conf` FALSE in all of these columns
-<img width="924" alt="image" src="https://user-images.githubusercontent.com/79275883/200127060-685ce3f6-ed56-45c2-99e7-5e8c11071d31.png">
+ <img width="924" alt="image" src="https://user-images.githubusercontent.com/79275883/200127060-685ce3f6-ed56-45c2-99e7-5e8c11071d31.png">
 
  12. Noteable quality issue - **wrd_image_prediction** `p1`, `p2` and `p3` one prediction data with TRUE and the highest confidence value is enough
+ <img width="711" alt="image" src="https://user-images.githubusercontent.com/79275883/200127300-d52fdc1d-9522-4ec5-8474-c0962a4bdfb9.png">
+
+ 13. Noteable quality issue - **wrd_archive** `source` multiple values combined in one column
+ <img width="852" alt="image" src="https://user-images.githubusercontent.com/79275883/200127508-46a78a99-daf6-4630-9e6f-c1ea2df22088.png">
+ 
+ 14. Noteable quality issue - **wrd_archive**, **wrd_image_prediction** and **wrd_archive_add** `tweet_id` is a duplicate column
+ <img width="482" alt="image" src="https://user-images.githubusercontent.com/79275883/200127903-bef1e2a5-3540-4da5-9f66-8454e6ed67ea.png">
+ 
+ 15. Noteable tidiness issue - **wrd_image_prediction** `p1`, `p2`and `p3` have underlines in strings of Dog race column
+ <img width="863" alt="image" src="https://user-images.githubusercontent.com/79275883/200128030-6796008d-83a1-48b0-8765-029865957771.png">
+
+ 16. Noteable tidiness issue - **wrd_image_prediction** `p1`, `p2`and `p3` not capitalized
+ <img width="896" alt="image" src="https://user-images.githubusercontent.com/79275883/200128172-50441421-d1cc-4dda-ad82-b1f8e4da984c.png">
 
 
 
