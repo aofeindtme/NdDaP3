@@ -24,7 +24,7 @@ I load the data sources in separat DataFrames and run code to provide the possib
  3. Noteable tidiness issue - Columns not interesting for further analyse
  <img width="1412" alt="image" src="https://user-images.githubusercontent.com/79275883/200125169-6241739d-1ca8-4b5a-ab3a-6b09f6baa631.png">
 
- 4. Noteable quality issue - 'tweet_id' Type *int64* instead of *string*
+ 4. Noteable quality issue - `tweet_id Type *int64* instead of *string*
  <img width="576" alt="image" src="https://user-images.githubusercontent.com/79275883/200125177-7e6960d1-62b0-409d-9ed8-ed41e8c17cd0.png">
 
 ## Cleaning
