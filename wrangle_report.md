@@ -16,7 +16,7 @@ The files are named `assessing.html` and `assessing.md` and also stored inside m
 I load the data sources in separat DataFrames and run code to provide the possibilities for a visual and a programmatical assement.
 
  - 1. Noteable tidiness issue - Source saved in HTML Format
- - <img width="1132" alt="image" src="https://user-images.githubusercontent.com/79275883/200114118-eb86723c-dc0d-4845-b10f-1d3d16be83ec.png">
+ <img width="1132" alt="image" src="https://user-images.githubusercontent.com/79275883/200114118-eb86723c-dc0d-4845-b10f-1d3d16be83ec.png">
 
 #### 2. Noteable quality issue - Categorical variables for dog ages are represented as separate columns
 <img width="722" alt="image" src="https://user-images.githubusercontent.com/79275883/200114289-a3b3398b-842b-4896-8dbb-9a9298576f06.png">
