@@ -21,6 +21,9 @@ I load the data sources in separat DataFrames and run code to provide the possib
  2. Noteable quality issue - **wrd_archive** Categorical variables for dog ages are represented as separate columns `doggo`, `floofer`, `pupper`and `puppo`
  <img width="727" alt="image" src="https://user-images.githubusercontent.com/79275883/200125158-339961f4-0a2e-4486-851f-71285d077099.png">
 
+ 3. Noteable tidiness issue - **wrd_archive** `retweeted_status_id`, `retweeted_status_user_id`and `retweeted_status_timestamp` mark not necessary observations of uninterested reply rows
+ ![image](https://user-images.githubusercontent.com/79275883/200128906-255667e5-baeb-4aa0-a970-3bc00899bcba.png)
+
  3. Noteable tidiness issue - **wrd_archive** `in_reply_to_status_id`, `in_reply to_user_id`, `retweeted_status_id`, `retweeted_status_user_id`and `retweeted_status_timestamp` not interesting for further analyse
  <img width="1412" alt="image" src="https://user-images.githubusercontent.com/79275883/200125169-6241739d-1ca8-4b5a-ab3a-6b09f6baa631.png">
 
