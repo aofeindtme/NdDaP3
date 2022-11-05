@@ -33,7 +33,8 @@ I load the data sources in separat DataFrames and run code to provide the possib
  6. Noteable quality issue - **wrd_archive** `rating_numerator` inaccurate values
  <img width="977" alt="image" src="https://user-images.githubusercontent.com/79275883/200125462-b19107c1-9ecf-433a-a52e-54c89674173c.png">
 
+ 7. Noteable quality issue - **wrd_archive** `rating_denominator`inaccurate values != 10
+ <img width="657" alt="image" src="https://user-images.githubusercontent.com/79275883/200125785-3b6ab12c-d5ea-42da-bf55-e79664547321.png">
 
- 7. 
 
 ## Cleaning
