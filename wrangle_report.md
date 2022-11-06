@@ -12,8 +12,8 @@ For assessing the data I spend a lot of time in coding and experimenting to crea
 
 To provide these points I let the code extract a markdown and HTML time each during runtime.
 The files are named `assessing.html` and `assessing.md` and also stored inside my Project Workspace at Udacity.
-### Process
-I load the data sources in separat DataFrames and run code to provide the possibilities for a visual and a programmatical assement.
+
+I load the data sources in separat DataFrames and run code to provide the possibilities for a visual and a programmatical assement. Based on the outputs I found the following tidiness and quality issues concerning the data.
 
  1. Noteable quality issue - **wrd_archive** `source` multiple values combined in one column
  <img width="852" alt="image" src="https://user-images.githubusercontent.com/79275883/200127508-46a78a99-daf6-4630-9e6f-c1ea2df22088.png">
@@ -63,9 +63,5 @@ I load the data sources in separat DataFrames and run code to provide the possib
  16. Noteable tidiness issue - **wrd_image_prediction** `p1`, `p2`and `p3` not capitalized
  <img width="896" alt="image" src="https://user-images.githubusercontent.com/79275883/200128172-50441421-d1cc-4dda-ad82-b1f8e4da984c.png">
 
-
-
-
-
-
 ## Cleaning
+In the first steps I created copies of the DataFrames before iterating over the given steps `Define`, `Code` and `Test`. I solved the issues under the choosen points and saved the cleaned DataFrames merged in a requested Master-DataFrame.
