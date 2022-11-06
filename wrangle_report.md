@@ -7,11 +7,11 @@
 ## Investigation (Assessing)
 For assessing the data I spend a lot of time in coding and experimenting to create a script that provides the following points:
  - Reproducibility for future investigations with a minimum of new coding
- - Availability without running the script again
+ - Availability without running the script again (I couldn't get this solved in the Udacity Worspace, only in my own enviroment on Github with a native .py file)
  - Clarity
 
-To provide these points I let the code extract a markdown and HTML time each during runtime.
-The files are named `assessing.html` and `assessing.md` and also stored inside my Project Workspace at Udacity.
+~~To provide the 2nd point I let the code extract a markdown and HTML time each during runtime.
+The files are named `assessing.html` and `assessing.md` and also stored inside my Project Workspace at Udacity.~~
 
 I load the data sources in separat DataFrames and run code to provide the possibilities for a visual and a programmatical assement. Based on the outputs I found the following tidiness and quality issues concerning the data.
 
