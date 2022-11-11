@@ -2,7 +2,11 @@
 
 ## Introduction
 
+Purpose of this project was to go through the entire process of wrangling and analyzing a real-world source of data. This went from gathering and assessing the data, over cleaning it and visualize the insights in the end.
+
 ### Is there a correlation between likes and interactions by other Twitter user?
+
+As we can see in the plot that the more a photo got retweeted the more likes it got. This effect acts surely also in the reverse direction.
 ![Screenshot from 2022-11-10 18-36-08](https://user-images.githubusercontent.com/79275883/201167670-52a095a1-bbd6-490b-b578-66297d9f8b60.png)
 
 
